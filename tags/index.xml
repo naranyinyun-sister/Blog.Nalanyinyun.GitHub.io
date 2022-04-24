@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 纳兰音韵的博客</title>
-    <link>http://naranyinyun-sister/Blog.Nalanyinyun.GitHub.io/tags/</link>
+    <link>https://naranyinyun-sister.github.io/Blog.Nalanyinyun.GitHub.io/tags/</link>
     <description>Recent content in Tags on 纳兰音韵的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="http://naranyinyun-sister/Blog.Nalanyinyun.GitHub.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language><atom:link href="https://naranyinyun-sister.github.io/Blog.Nalanyinyun.GitHub.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
