@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>纳兰音韵的博客</title>
-    <link>https://naranyinyun-sister.github.io/Blog.Nalanyinyun.GitHub.io/</link>
+    <link>https://blog.nalanyinyun.ml/</link>
     <description>Recent content on 纳兰音韵的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 24 Apr 2022 13:18:04 +0800</lastBuildDate><atom:link href="https://naranyinyun-sister.github.io/Blog.Nalanyinyun.GitHub.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Apr 2022 13:18:04 +0800</lastBuildDate><atom:link href="https://blog.nalanyinyun.ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://naranyinyun-sister.github.io/Blog.Nalanyinyun.GitHub.io/post/test/</link>
+      <link>https://blog.nalanyinyun.ml/post/test/</link>
       <pubDate>Sun, 24 Apr 2022 13:18:04 +0800</pubDate>
       
-      <guid>https://naranyinyun-sister.github.io/Blog.Nalanyinyun.GitHub.io/post/test/</guid>
+      <guid>https://blog.nalanyinyun.ml/post/test/</guid>
       <description>g</description>
     </item>
     
     <item>
       <title>如何解除Windows10 UWP网络回环限制</title>
-      <link>https://naranyinyun-sister.github.io/Blog.Nalanyinyun.GitHub.io/post/%E5%A6%82%E4%BD%95%E8%A7%A3%E9%99%A4Windows10-UWP%E7%BD%91%E7%BB%9C%E5%9B%9E%E7%8E%AF%E9%99%90%E5%88%B6/</link>
+      <link>https://blog.nalanyinyun.ml/post/%E5%A6%82%E4%BD%95%E8%A7%A3%E9%99%A4Windows10-UWP%E7%BD%91%E7%BB%9C%E5%9B%9E%E7%8E%AF%E9%99%90%E5%88%B6/</link>
       <pubDate>Sat, 23 Apr 2022 15:19:17 +0800</pubDate>
       
-      <guid>https://naranyinyun-sister.github.io/Blog.Nalanyinyun.GitHub.io/post/%E5%A6%82%E4%BD%95%E8%A7%A3%E9%99%A4Windows10-UWP%E7%BD%91%E7%BB%9C%E5%9B%9E%E7%8E%AF%E9%99%90%E5%88%B6/</guid>
+      <guid>https://blog.nalanyinyun.ml/post/%E5%A6%82%E4%BD%95%E8%A7%A3%E9%99%A4Windows10-UWP%E7%BD%91%E7%BB%9C%E5%9B%9E%E7%8E%AF%E9%99%90%E5%88%B6/</guid>
       <description>为什么要解除网络回环限制 在Windows10中，微软为uwp引入了虚拟沙箱环境，UWP运行在与本地隔绝的容器内 但沙箱机制限制了UWP发送流量到本地（Loopback，即回环），导致抓包工具无法抓取UWP流量信息 同时限制了UWP访问localhost，导致UWP无法通过系统代理正常</description>
     </item>
     
     <item>
       <title>如何使用Arctime制作双语字幕</title>
-      <link>https://naranyinyun-sister.github.io/Blog.Nalanyinyun.GitHub.io/post/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Arctime%E5%88%B6%E4%BD%9C%E5%8F%8C%E8%AF%AD%E5%AD%97%E5%B9%95/</link>
+      <link>https://blog.nalanyinyun.ml/post/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Arctime%E5%88%B6%E4%BD%9C%E5%8F%8C%E8%AF%AD%E5%AD%97%E5%B9%95/</link>
       <pubDate>Fri, 15 Apr 2022 12:37:11 +0800</pubDate>
       
-      <guid>https://naranyinyun-sister.github.io/Blog.Nalanyinyun.GitHub.io/post/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Arctime%E5%88%B6%E4%BD%9C%E5%8F%8C%E8%AF%AD%E5%AD%97%E5%B9%95/</guid>
+      <guid>https://blog.nalanyinyun.ml/post/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Arctime%E5%88%B6%E4%BD%9C%E5%8F%8C%E8%AF%AD%E5%AD%97%E5%B9%95/</guid>
       <description>氦，你好，我是纳兰音韵 也是Rain Curtain FanSub Group唯一的成员 我会介绍如何使用Arctime完成双语字幕并简短介绍我们的工作流程 同时我们也希望你能够不在不了解的情况下对别人指指点点 寻找源语言字幕 当然，对于我们来说，是寻找歌词 你需要找到源语言的歌词，并翻译，格式应该为下文所示 Hello 你好 保持</description>
     </item>
     
     <item>
       <title>如何部署Hugo至GitHub Pages</title>
-      <link>https://naranyinyun-sister.github.io/Blog.Nalanyinyun.GitHub.io/post/%E5%A6%82%E4%BD%95%E9%83%A8%E7%BD%B2Hugo%E8%87%B3GitHub-Pages/</link>
+      <link>https://blog.nalanyinyun.ml/post/%E5%A6%82%E4%BD%95%E9%83%A8%E7%BD%B2Hugo%E8%87%B3GitHub-Pages/</link>
       <pubDate>Tue, 12 Apr 2022 11:07:14 +0800</pubDate>
       
-      <guid>https://naranyinyun-sister.github.io/Blog.Nalanyinyun.GitHub.io/post/%E5%A6%82%E4%BD%95%E9%83%A8%E7%BD%B2Hugo%E8%87%B3GitHub-Pages/</guid>
+      <guid>https://blog.nalanyinyun.ml/post/%E5%A6%82%E4%BD%95%E9%83%A8%E7%BD%B2Hugo%E8%87%B3GitHub-Pages/</guid>
       <description>先决条件 你已在本地部署 Hugo 你已拥有 GitHub 账号并下载了 Github Desktop 生成最终网页 hugo --theme=xxxxx --baseUrl=&amp;quot;http://xxxxx.github.io/&amp;quot; BaseUrl后填写你的网址，也就是GitHub（xxxxx.GitHub.io）或你要绑定的域名 theme后填你使用的主题文件夹名 千万不要忘记在网址最后加上/，否则你会被debug折磨致死 配置 Github Desktop 双击 Github Desk</description>
     </item>
     
