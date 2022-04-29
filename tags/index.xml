@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 纳兰音韵的博客</title>
+    <title>Tags on Nalanyinyun Blog</title>
     <link>https://blog.nalanyinyun.ml/tags/</link>
-    <description>Recent content in Tags on 纳兰音韵的博客</description>
+    <description>Recent content in Tags on Nalanyinyun Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
+    <language>zh-cn</language>
+    <managingEditor>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</managingEditor>
+    <webMaster>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</webMaster>
+    <copyright>© 2021 &lt;a href=&#34;https://blog.nalanyinyun.ml&#34;&gt;Wilderness Literary Society&amp;RainCurtain&lt;/a&gt;.</copyright>
     <lastBuildDate>Fri, 15 Apr 2022 12:37:11 +0800</lastBuildDate><atom:link href="https://blog.nalanyinyun.ml/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ACGN</title>
-      <link>https://blog.nalanyinyun.ml/tags/ACGN/</link>
+      <link>https://blog.nalanyinyun.ml/tags/acgn/</link>
       <pubDate>Fri, 15 Apr 2022 12:37:11 +0800</pubDate>
-      
-      <guid>https://blog.nalanyinyun.ml/tags/ACGN/</guid>
+      <author>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</author>
+      <guid>https://blog.nalanyinyun.ml/tags/acgn/</guid>
       <description></description>
     </item>
     
