@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nalanyinyun Blog</title>
-    <link>https://blog.nalanyinyun.ml/</link>
-    <description>Recent content on Nalanyinyun Blog</description>
+    <title>Technology on Nalanyinyun Blog</title>
+    <link>https://blog.nalanyinyun.ml/tags/technology/</link>
+    <description>Recent content in Technology on Nalanyinyun Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</managingEditor>
     <webMaster>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</webMaster>
     <copyright>Copyright© 2022 &lt;a href=&#34;https://blog.nalanyinyun.ml&#34;&gt;Wilderness Literary Society &amp; RainCurtain &amp; Nalanyinyun&lt;/a&gt; All rights reserved</copyright>
-    <lastBuildDate>Sat, 30 Apr 2022 14:47:44 +0800</lastBuildDate><atom:link href="https://blog.nalanyinyun.ml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Apr 2022 14:47:44 +0800</lastBuildDate><atom:link href="https://blog.nalanyinyun.ml/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何安装Hugo扩展版(hugo Extended)</title>
       <link>https://blog.nalanyinyun.ml/posts/202204301447/</link>
@@ -26,24 +26,6 @@
       <author>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</author>
       <guid>https://blog.nalanyinyun.ml/posts/202204231519/</guid>
       <description>为什么要解除网络回环限制 在Windows10中，微软为uwp引入了虚拟沙箱环境，UWP运行在与本地隔绝的容器内 但沙箱机制限制了UWP发送流量</description>
-    </item>
-    
-    <item>
-      <title>为什么我不喜欢-公主连结-与你重逢</title>
-      <link>https://blog.nalanyinyun.ml/posts/202204151237/</link>
-      <pubDate>Fri, 15 Apr 2022 12:37:11 +0800</pubDate>
-      <author>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</author>
-      <guid>https://blog.nalanyinyun.ml/posts/202204151237/</guid>
-      <description>为什么我不喜欢公主连结-与你重逢（动画） 氦，你好，我是纳兰音韵 最近看完了公主连结的第二季，很让我意外，因为这是我第一次倍速看番 我不是 公主连结</description>
-    </item>
-    
-    <item>
-      <title>如何使用Arctime制作双语字幕</title>
-      <link>https://blog.nalanyinyun.ml/posts/202204151237/</link>
-      <pubDate>Fri, 15 Apr 2022 12:37:11 +0800</pubDate>
-      <author>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</author>
-      <guid>https://blog.nalanyinyun.ml/posts/202204151237/</guid>
-      <description>氦，你好，我是纳兰音韵 也是Rain Curtain FanSub Group唯一的成员 我会介绍如何使用Arctime完成双语字幕并简短介绍我们的工作流程 同时我们也希望你</description>
     </item>
     
     <item>
