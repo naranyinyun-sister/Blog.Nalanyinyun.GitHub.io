@@ -27,19 +27,19 @@
   
   
   
-  <title>如何解除Windows10 UWP网络回环限制 🌟 Nalanyinyun Blog</title>
+  <title>如何配置Adb并使用Adb刷写分区 🌟 Nalanyinyun Blog</title>
 
-  <meta property="og:title" content="如何解除Windows10 UWP网络回环限制" />
-<meta property="og:description" content="为什么要解除网络回环限制 在Windows10中，微软为uwp引入了虚拟沙箱环境，UWP运行在与本地隔绝的容器内 但沙箱机制限制了UWP发送流量" />
+  <meta property="og:title" content="如何配置Adb并使用Adb刷写分区" />
+<meta property="og:description" content="嗨,今天我们来学习如何使用Adb 配置Adb环境 我们先下载SDK Platform-Tools 下载好了? 我们进入SDK Platform-Tools所在目录,右键并选择在此" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://blog.nalanyinyun.ml/posts/202204231519/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2022-04-23T15:19:17+08:00" />
-<meta property="article:modified_time" content="2022-04-23T15:19:17+08:00" />
+<meta property="og:url" content="https://blog.nalanyinyun.ml/posts/202206062043/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-06-06T20:43:38+08:00" />
+<meta property="article:modified_time" content="2022-06-06T20:43:38+08:00" />
 
 
   <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="如何解除Windows10 UWP网络回环限制"/>
-<meta name="twitter:description" content="为什么要解除网络回环限制 在Windows10中，微软为uwp引入了虚拟沙箱环境，UWP运行在与本地隔绝的容器内 但沙箱机制限制了UWP发送流量"/>
+<meta name="twitter:title" content="如何配置Adb并使用Adb刷写分区"/>
+<meta name="twitter:description" content="嗨,今天我们来学习如何使用Adb 配置Adb环境 我们先下载SDK Platform-Tools 下载好了? 我们进入SDK Platform-Tools所在目录,右键并选择在此"/>
 
 
   
@@ -86,14 +86,14 @@
 
   <div class="card-cover">
     
-      <img src="https://githubraw.fuibafuyu.cf/naranyinyun/Images/main/img/1651237115205.jpg" alt="https://githubraw.fuibafuyu.cf/naranyinyun/Images/main/img/1651237115205.jpg" />
+      <img src="https://githubraw.fuibafuyu.cf/naranyinyun/Images/main/img/1653525902659.png" alt="https://githubraw.fuibafuyu.cf/naranyinyun/Images/main/img/1653525902659.png" />
     
   </div>
 
   <div class="card-text">
-    <h1 class="card-text--title">如何解除Windows10 UWP网络回环限制</h1>
+    <h1 class="card-text--title">如何配置Adb并使用Adb刷写分区</h1>
     
-      <p class="card-text--row">2022-04-23 15:19</p>
+      <p class="card-text--row">2022-06-06 20:43</p>
       
       
       
@@ -102,7 +102,9 @@
       
         <ul class="card-text--tag">
           
-            <li><a href="https://blog.nalanyinyun.ml/tags/technology/">Technology</a></li></ul>
+            <li><a href="https://blog.nalanyinyun.ml/tags/android/">Android</a></li>
+            <li><a href="https://blog.nalanyinyun.ml/tags/android-development/">Android-development</a></li>
+            <li><a href="https://blog.nalanyinyun.ml/tags/android-fancier/">Android-fancier</a></li></ul>
       
     
   </div>
@@ -112,26 +114,60 @@
 
         <div class="article-content">
           <div class="markdown-body content-padding-large soft-size--large soft-style--box">
-            <h2 id="为什么要解除网络回环限制">为什么要解除网络回环限制</h2>
-<p>在Windows10中，微软为uwp引入了虚拟沙箱环境，UWP运行在与本地隔绝的容器内</p>
-<p>但沙箱机制限制了UWP发送流量到本地（Loopback，即回环），导致抓包工具无法抓取UWP流量信息</p>
-<p>同时限制了UWP访问localhost，导致UWP无法通过系统代理正常发送流量</p>
-<p>IPv4中，loopback对应的地址为127.0.0.1，实际上127.0.0.1-127.255.255.255都是loopback地址</p>
-<h2 id="如何解除网络回环限制">如何解除网络回环限制</h2>
-<ol>
-<li>
-<p>获取UWP的SID 注册表编辑器中定位到HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Mappings，其中每项的DisplayName为应用名称，左侧一大堆字符就是SID，复制并留存，稍后使用</p>
-</li>
-<li>
-<p>打开PowerShell，输入CheckNetIsolation.exe loopbackexempt -a -p=</p>
-</li>
-<li>
-<p>p=后填写刚才复制的SID，无需空格</p>
-</li>
-</ol>
-<h2 id="后记">后记</h2>
-<p>不推荐使用任何第三方工具修改网络回环限制</p>
-<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->本作品采用<!-- raw HTML omitted -->知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议<!-- raw HTML omitted -->进行许可。</p>
+            <div
+  class="aplayer-box"
+  data-url="https://music.163.com/song/media/outer/url?id=477331153.mp3"
+  data-name="しあわせ色"
+  data-artist="小倉唯/東城日沙子"
+
+  data-cover="http://p1.music.126.net/24o-mnIIfVm6q4XcQytzyQ==/19171084742024399.jpg?param=130y130"
+  
+  
+  
+  config-theme="#b7daff"
+  config-loop="all"
+
+  config-autoplay=false
+  config-mutex =true
+></div>
+<p>嗨,今天我们来学习如何使用Adb</p>
+<h3 id="配置adb环境">配置Adb环境</h3>
+<p>我们先下载<a href="https://developer.android.com/studio/releases/platform-tools" target="_blank" rel="noopener">SDK Platform-Tools</a></p>
+<p>下载好了?</p>
+<p>我们进入SDK Platform-Tools所在目录,右键并选择在此处打开命令提示符,当然,也可以先打开(不要关闭),再cd到目录(<strong>你也可以使用Powershell/终端,这并不影响我们接下来的步骤</strong>)</p>
+<blockquote>
+<p>如果你想配置环境变量,那就打开系统属性面板,当然,不配置也可以</p>
+<p>高级-环境变量</p>
+<p>系统变量-新建</p>
+<p>变量名随意,变量值填写Tools所在目录</p>
+</blockquote>
+<p>不会?</p>
+<p>好吧,我们可以使用<a href="https://atmb.top/" target="_blank" rel="noopener">秋之盒</a>提供的集成Adb环境,秋之盒附带刷写boot和recovery的功能,因为秋之盒提供GUI,使用方法请自行摸索</p>
+<h3 id="刷写android设备">刷写Android设备</h3>
+<p>准备好你要刷写的镜像文件</p>
+<p>将设备重启至Fastboot</p>
+<p>切换到之前打开的窗口</p>
+<p>命令行操作:</p>
+<blockquote>
+<p>fastboot flash 分区 文件名</p>
+<p>like this: fastboot flash boot boot.img</p>
+</blockquote>
+<p>如果刷入了recovery，你很可能需要进入recovery关闭AVB并签名boot</p>
+<p>命令行操作：</p>
+<blockquote>
+<p>adb reboot 模式</p>
+<p>like this: adb reboot recovery</p>
+</blockquote>
+<h3 id="关闭avb">关闭AVB</h3>
+<p>如果需要关闭AVB，又没有包的情况下</p>
+<p>先获取手机的Vbmeta.img</p>
+<p>命令行操作：</p>
+<blockquote>
+<p>fastboot &ndash;disable-verity &ndash;disable-verification flash vbmeta 文件名</p>
+<p>like this: fastboot &ndash;disable-verity &ndash;disable-verification flash vbmeta vbmeta.img</p>
+</blockquote>
+<p>原理：</p>
+<p><a href="https://bbs.pediy.com/thread-265792.htm" target="_blank" rel="noopener">对vbmeta.img中120偏移处进行了两个bit位的处理，即vbmeta.img中是否关闭验证有两个flag可以控制</a></p>
 
           </div>
         </div>
@@ -146,20 +182,12 @@
 
   <div class="article-paging">
     
-      <section class="post-paging--item card-container content-padding-primary soft-size--primary soft-style--box">
-  <div class="card-cover" background-image-lazy data-img="https://githubraw.fuibafuyu.cf/naranyinyun/Images/main/img/264bbe7b16eb4714.jpg"></div>
-  <div class="card-text">
-    <a href="/posts/202204301447/"><h4 class="card-text--title text-ellipsis">如何安装Hugo扩展版(hugo Extended)</h4></a>
-    <p class="card-text--row">2022-04-30 14:47</p>
-  </div>
-</section>
-    
     
       <section class="post-paging--item card-container content-padding-primary soft-size--primary soft-style--box">
-  <div class="card-cover" background-image-lazy data-img="https://githubraw.fuibafuyu.cf/naranyinyun/Images/main/img/5a3536fecd6c1647.jpg"></div>
+  <div class="card-cover" background-image-lazy data-img="https://githubraw.fuibafuyu.cf/naranyinyun/Images/main/img/1652957170959.jpg"></div>
   <div class="card-text">
-    <a href="/posts/202204151237/"><h4 class="card-text--title text-ellipsis">如何使用Arctime制作双语字幕</h4></a>
-    <p class="card-text--row">2022-04-15 12:37</p>
+    <a href="/posts/202205181138/"><h4 class="card-text--title text-ellipsis">脏话的魅力</h4></a>
+    <p class="card-text--row">2022-05-18 11:38</p>
   </div>
 </section>
     
@@ -194,6 +222,8 @@
 
 
 
+
+
 <section class="aside-widget widget-articles content-padding-large soft-size--large soft-style--box">
   <h2 class="widget-header">
     <div class="title">
@@ -204,9 +234,17 @@
     <ul class="post-list">
       
       
+        <li class="post-item"><a href="/posts/202205181138/">脏话的魅力</a></li>
+      
+        <li class="post-item"><a href="/posts/202205071437/">什么是多巴胺禁断 以及为什么进行多巴胺禁断</a></li>
+      
+        <li class="post-item"><a href="/posts/202205032007/">为什么我不喜欢公主连结 与你重逢</a></li>
+      
         <li class="post-item"><a href="/posts/202204301447/">如何安装Hugo扩展版(hugo Extended)</a></li>
       
-        <li class="post-item"><a href="/posts/202204121107/">如何部署Hugo至GitHub Pages</a></li>
+        <li class="post-item"><a href="/posts/202204231519/">如何解除Windows10 UWP网络回环限制</a></li>
+      
+        <li class="post-item"><a href="/posts/202204151237/">如何使用Arctime制作双语字幕</a></li>
       
     </ul>
   </div>
