@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.nalanyinyun.ml/</loc>
+    <lastmod>2022-06-12T14:44:57+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.nalanyinyun.ml/posts/</loc>
+    <lastmod>2022-06-12T14:44:57+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.nalanyinyun.ml/posts/202206121444/</loc>
+    <lastmod>2022-06-12T14:44:57+08:00</lastmod>
+  </url><url>
     <loc>https://blog.nalanyinyun.ml/tags/android/</loc>
     <lastmod>2022-06-06T20:43:38+08:00</lastmod>
   </url><url>
@@ -9,12 +18,6 @@
     <lastmod>2022-06-06T20:43:38+08:00</lastmod>
   </url><url>
     <loc>https://blog.nalanyinyun.ml/tags/android-fancier/</loc>
-    <lastmod>2022-06-06T20:43:38+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.nalanyinyun.ml/</loc>
-    <lastmod>2022-06-06T20:43:38+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.nalanyinyun.ml/posts/</loc>
     <lastmod>2022-06-06T20:43:38+08:00</lastmod>
   </url><url>
     <loc>https://blog.nalanyinyun.ml/tags/</loc>
