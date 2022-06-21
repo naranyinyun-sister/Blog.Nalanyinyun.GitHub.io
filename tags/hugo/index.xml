@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HUGO on Nalanyinyun Blog</title>
-    <link>https://blog.nalanyinyun.ml/tags/hugo/</link>
+    <link>https://old.blog.nalanyinyun.ml/tags/hugo/</link>
     <description>Recent content in HUGO on Nalanyinyun Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</managingEditor>
     <webMaster>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</webMaster>
     <copyright>Copyright 2022 &lt;a href=&#34;https://blog.nalanyinyun.ml&#34;&gt;Wilderness Literary Society &amp; RainCurtain &amp; Nalanyinyun&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 30 Apr 2022 14:47:44 +0800</lastBuildDate><atom:link href="https://blog.nalanyinyun.ml/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Apr 2022 14:47:44 +0800</lastBuildDate><atom:link href="https://old.blog.nalanyinyun.ml/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何安装Hugo扩展版(hugo Extended)</title>
-      <link>https://blog.nalanyinyun.ml/posts/202204301447/</link>
+      <link>https://old.blog.nalanyinyun.ml/posts/202204301447/</link>
       <pubDate>Sat, 30 Apr 2022 14:47:44 +0800</pubDate>
       <author>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</author>
-      <guid>https://blog.nalanyinyun.ml/posts/202204301447/</guid>
+      <guid>https://old.blog.nalanyinyun.ml/posts/202204301447/</guid>
       <description>为什么需要Hugo扩展版 有些HUGO主题需要使用HUGO扩展版的SASS/SCSS转CSS功能 如果你使用了普通HUGO，那么报错应该是这样的</description>
     </item>
     
     <item>
       <title>如何部署Hugo至GitHub Pages</title>
-      <link>https://blog.nalanyinyun.ml/posts/202204121107/</link>
+      <link>https://old.blog.nalanyinyun.ml/posts/202204121107/</link>
       <pubDate>Tue, 12 Apr 2022 11:07:14 +0800</pubDate>
       <author>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</author>
-      <guid>https://blog.nalanyinyun.ml/posts/202204121107/</guid>
+      <guid>https://old.blog.nalanyinyun.ml/posts/202204121107/</guid>
       <description>先决条件 你已在本地部署 Hugo 你已拥有 GitHub 账号并下载了 Github Desktop 生成最终网页 hugo --theme=xxxxx --baseUrl=&amp;quot;http://xxxxx.github.io/&amp;quot; BaseUrl后填写你的网址，也就是GitHub（xxxxx.GitHu</description>
     </item>
     
