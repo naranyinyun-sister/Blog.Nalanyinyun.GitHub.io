@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nalanyinyun Blog</title>
-    <link>https://old.blog.nalanyinyun.ml/</link>
+    <link>https://old.nalanyinyun.ml/</link>
     <description>Recent content on Nalanyinyun Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</managingEditor>
     <webMaster>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</webMaster>
     <copyright>Copyright 2022 &lt;a href=&#34;https://blog.nalanyinyun.ml&#34;&gt;Wilderness Literary Society &amp; RainCurtain &amp; Nalanyinyun&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 12 Jun 2022 14:44:57 +0800</lastBuildDate><atom:link href="https://old.blog.nalanyinyun.ml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jun 2022 14:44:57 +0800</lastBuildDate><atom:link href="https://old.nalanyinyun.ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>随性体</title>
-      <link>https://old.blog.nalanyinyun.ml/posts/202206121444/</link>
+      <link>https://old.nalanyinyun.ml/posts/202206121444/</link>
       <pubDate>Sun, 12 Jun 2022 14:44:57 +0800</pubDate>
       <author>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</author>
-      <guid>https://old.blog.nalanyinyun.ml/posts/202206121444/</guid>
+      <guid>https://old.nalanyinyun.ml/posts/202206121444/</guid>
       <description>我已经受够了什么诗歌，短诗诸如此类的东西，讨厌它们的死板，它们的定义 有的时候，我们的目的只是简单的，用一种不同的方式表达自己的情感，状态，当</description>
     </item>
     
     <item>
       <title>如何配置Adb并使用Adb刷写分区</title>
-      <link>https://old.blog.nalanyinyun.ml/posts/202206062043/</link>
+      <link>https://old.nalanyinyun.ml/posts/202206062043/</link>
       <pubDate>Mon, 06 Jun 2022 20:43:38 +0800</pubDate>
       <author>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</author>
-      <guid>https://old.blog.nalanyinyun.ml/posts/202206062043/</guid>
+      <guid>https://old.nalanyinyun.ml/posts/202206062043/</guid>
       <description>嗨,今天我们来学习如何使用Adb 配置Adb环境 我们先下载SDK Platform-Tools 下载好了? 我们进入SDK Platform-Tools所在目录,右键并选择在此</description>
     </item>
     
     <item>
       <title>脏话的魅力</title>
-      <link>https://old.blog.nalanyinyun.ml/posts/202205181138/</link>
+      <link>https://old.nalanyinyun.ml/posts/202205181138/</link>
       <pubDate>Wed, 18 May 2022 11:38:51 +0800</pubDate>
       <author>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</author>
-      <guid>https://old.blog.nalanyinyun.ml/posts/202205181138/</guid>
+      <guid>https://old.nalanyinyun.ml/posts/202205181138/</guid>
       <description>楔子 赵刚:本来我嘴巴挺干净，自从和你做了搭档，现在也学得满嘴脏话，一张口就骂娘，想想自己都不好意思，这叫他娘的什么与工农相结合？好的一点儿没</description>
     </item>
     
     <item>
       <title>什么是多巴胺禁断 以及为什么进行多巴胺禁断</title>
-      <link>https://old.blog.nalanyinyun.ml/posts/202205071437/</link>
+      <link>https://old.nalanyinyun.ml/posts/202205071437/</link>
       <pubDate>Sat, 07 May 2022 14:37:17 +0800</pubDate>
       <author>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</author>
-      <guid>https://old.blog.nalanyinyun.ml/posts/202205071437/</guid>
+      <guid>https://old.nalanyinyun.ml/posts/202205071437/</guid>
       <description>多巴胺和它的受体是什么 多巴胺 基本信息 英文名 4-(2-aminoethyl)benzene-1,2-diolI 中文名 4-(2-乙胺基)苯-1,2-二醇 识别CAS号 51-61-6PubChem681SMILESC1=CC(=C(C=C1CCN)O)O **性质化学式 **C8H11NO2 **摩尔质量 **153.178gmol-1 熔点 128°</description>
     </item>
     
     <item>
       <title>为什么我不喜欢公主连结 与你重逢</title>
-      <link>https://old.blog.nalanyinyun.ml/posts/202205032007/</link>
+      <link>https://old.nalanyinyun.ml/posts/202205032007/</link>
       <pubDate>Tue, 03 May 2022 20:07:53 +0800</pubDate>
       <author>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</author>
-      <guid>https://old.blog.nalanyinyun.ml/posts/202205032007/</guid>
+      <guid>https://old.nalanyinyun.ml/posts/202205032007/</guid>
       <description>为什么我不喜欢公主连结-与你重逢（动画） 氦，你好，我是纳兰音韵 最近看完了公主连结的第二季，很让我意外，因为这是我第一次倍速看番 我不是 公主连结</description>
     </item>
     
     <item>
       <title>如何安装Hugo扩展版(hugo Extended)</title>
-      <link>https://old.blog.nalanyinyun.ml/posts/202204301447/</link>
+      <link>https://old.nalanyinyun.ml/posts/202204301447/</link>
       <pubDate>Sat, 30 Apr 2022 14:47:44 +0800</pubDate>
       <author>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</author>
-      <guid>https://old.blog.nalanyinyun.ml/posts/202204301447/</guid>
+      <guid>https://old.nalanyinyun.ml/posts/202204301447/</guid>
       <description>为什么需要Hugo扩展版 有些HUGO主题需要使用HUGO扩展版的SASS/SCSS转CSS功能 如果你使用了普通HUGO，那么报错应该是这样的</description>
     </item>
     
     <item>
       <title>如何解除Windows10 UWP网络回环限制</title>
-      <link>https://old.blog.nalanyinyun.ml/posts/202204231519/</link>
+      <link>https://old.nalanyinyun.ml/posts/202204231519/</link>
       <pubDate>Sat, 23 Apr 2022 15:19:17 +0800</pubDate>
       <author>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</author>
-      <guid>https://old.blog.nalanyinyun.ml/posts/202204231519/</guid>
+      <guid>https://old.nalanyinyun.ml/posts/202204231519/</guid>
       <description>为什么要解除网络回环限制 在Windows10中，微软为uwp引入了虚拟沙箱环境，UWP运行在与本地隔绝的容器内 但沙箱机制限制了UWP发送流量</description>
     </item>
     
     <item>
       <title>如何使用Arctime制作双语字幕</title>
-      <link>https://old.blog.nalanyinyun.ml/posts/202204151237/</link>
+      <link>https://old.nalanyinyun.ml/posts/202204151237/</link>
       <pubDate>Fri, 15 Apr 2022 12:37:11 +0800</pubDate>
       <author>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</author>
-      <guid>https://old.blog.nalanyinyun.ml/posts/202204151237/</guid>
+      <guid>https://old.nalanyinyun.ml/posts/202204151237/</guid>
       <description>氦，你好，我是纳兰音韵 也是Rain Curtain FanSub Group唯一的成员 我会介绍如何使用Arctime完成双语字幕并简短介绍我们的工作流程 同时我们也希望你</description>
     </item>
     
     <item>
       <title>如何部署Hugo至GitHub Pages</title>
-      <link>https://old.blog.nalanyinyun.ml/posts/202204121107/</link>
+      <link>https://old.nalanyinyun.ml/posts/202204121107/</link>
       <pubDate>Tue, 12 Apr 2022 11:07:14 +0800</pubDate>
       <author>Nlanyinyun@nalanyinyun.ml (纳兰音韵)</author>
-      <guid>https://old.blog.nalanyinyun.ml/posts/202204121107/</guid>
+      <guid>https://old.nalanyinyun.ml/posts/202204121107/</guid>
       <description>先决条件 你已在本地部署 Hugo 你已拥有 GitHub 账号并下载了 Github Desktop 生成最终网页 hugo --theme=xxxxx --baseUrl=&amp;quot;http://xxxxx.github.io/&amp;quot; BaseUrl后填写你的网址，也就是GitHub（xxxxx.GitHu</description>
     </item>
     
